@@ -1,2 +1,2 @@
 # ininja
-psd to html layout.Jquery slider
+psd to html layout. Jquery slider
