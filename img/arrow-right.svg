@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="8px" viewBox="0 0 10 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iNinja-Topic" transform="translate(-661.000000, -1636.000000)" fill="#FFFFFF">
+            <g id="footer" transform="translate(0.000000, 1090.000000)">
+                <g id="Footer" transform="translate(140.000000, 420.000000)">
+                    <g id="Component-/-Footer">
+                        <g id="Group-5" transform="translate(400.000000, 14.000000)">
+                            <g id="Group-4" transform="translate(0.000000, 104.000000)">
+                                <path d="M127.585786,13 L122,13 C121.447715,13 121,12.5522847 121,12 C121,11.4477153 121.447715,11 122,11 L127.585786,11 L127.085786,10.5 C126.695262,10.1094757 126.695262,9.47631073 127.085786,9.08578644 C127.476311,8.69526215 128.109476,8.69526215 128.5,9.08578644 L130.707107,11.2928932 C130.888071,11.4738576 131,11.7238576 131,12 C131,12.2761424 130.888071,12.5261424 130.707107,12.7071068 L128.414214,15 C128.023689,15.3905243 127.390524,15.3905243 127,15 C126.609476,14.6094757 126.609476,13.9763107 127,13.5857864 L127.585786,13 Z" id="arrow"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
